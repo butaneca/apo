@@ -1,0 +1,1 @@
+{"cart_content_html":"","cart_overlay_html":"","products_in_order":0,"order_total_amount":"0,00 \u20ac","product_information":[]}
